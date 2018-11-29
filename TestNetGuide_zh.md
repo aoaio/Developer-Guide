@@ -3,7 +3,7 @@
 aurora链启动
 基于linux或mac系统
 1. 连接正式链
-正式链为aurora线上运行的服务，提供了稳定可靠的区块链链上交易转账、发布多资产、部署智能合约共能。通过以下命令可将本地节点连接到aurora正式链上同步数据，发布交易。其中/data/aoa为为可执行文件存放的目录，由用户自定义。
+正式链为aurora线上运行的服务，提供了稳定可靠的区块链链上交易转账、发布多资产、部署智能合约功能。通过以下命令可将本地节点连接到aurora正式链上同步数据，发布交易。其中/data/aoa为为可执行文件存放的目录，由用户自定义。
 ```
 nohup /data/aoa/aoa --datadir /data/aoa/aoa-data --port 30303 --rpc --rpcaddr 127.0.0.1 --rpcport 8545 >> /data/aoa/aoa.log &
 ```
