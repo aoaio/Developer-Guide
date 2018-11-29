@@ -1,3 +1,5 @@
+安装包地点：https://github.com/aoaio/Developer-Guide/releases
+
 aurora链启动
 基于linux或mac系统
 1. 连接正式链
